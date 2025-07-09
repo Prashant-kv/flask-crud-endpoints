@@ -15,7 +15,7 @@ A simple Flask-based RESTful API for managing users (employees), including creat
 - **Python 3**
 - **Flask**
 - **SQLAlchemy**
-- **SQLite** (can be swapped with PostgreSQL)
+- **SQLite**
 - **REST API**
 
 ## 📁 Project Structure
